@@ -1,6 +1,7 @@
 {
   "name": "react-starting-point",
   "scripts": {
+
     "dev": "parcel index.html"
   },
   "type": "module",
